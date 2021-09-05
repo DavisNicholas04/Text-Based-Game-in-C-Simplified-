@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/davis/iCloudDrive/School/2021 fall/322/assignment1/gameFuctions/PlayGame.h
+
+C:/Users/davis/iCloudDrive/School/2021 fall/322/assignment1/main.c
+userInput/InputData.h
+C:/Users/davis/iCloudDrive/School/2021 fall/322/assignment1/userInput/InputData.h
+gameFuctions/PlayGame.h
+C:/Users/davis/iCloudDrive/School/2021 fall/322/assignment1/gameFuctions/PlayGame.h
+
+C:/Users/davis/iCloudDrive/School/2021 fall/322/assignment1/userInput/Creature.h
+
+C:/Users/davis/iCloudDrive/School/2021 fall/322/assignment1/userInput/InputData.h
+PromptUser.h
+C:/Users/davis/iCloudDrive/School/2021 fall/322/assignment1/userInput/PromptUser.h
+
+C:/Users/davis/iCloudDrive/School/2021 fall/322/assignment1/userInput/PromptUser.h
+stdlib.h
+-
+stdio.h
+C:/Users/davis/iCloudDrive/School/2021 fall/322/assignment1/userInput/stdio.h
+string.h
+C:/Users/davis/iCloudDrive/School/2021 fall/322/assignment1/userInput/string.h
+Room.h
+C:/Users/davis/iCloudDrive/School/2021 fall/322/assignment1/userInput/Room.h
+StringPrompts.h
+C:/Users/davis/iCloudDrive/School/2021 fall/322/assignment1/userInput/StringPrompts.h
+Creature.h
+C:/Users/davis/iCloudDrive/School/2021 fall/322/assignment1/userInput/Creature.h
+
+C:/Users/davis/iCloudDrive/School/2021 fall/322/assignment1/userInput/Room.h
+
+C:/Users/davis/iCloudDrive/School/2021 fall/322/assignment1/userInput/StringPrompts.h
+
