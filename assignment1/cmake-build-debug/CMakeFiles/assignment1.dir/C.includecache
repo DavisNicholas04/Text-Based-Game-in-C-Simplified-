@@ -7,6 +7,10 @@
 #IncludeRegexTransform: 
 
 C:/Users/davis/iCloudDrive/School/2021 fall/322/assignment1/gameFuctions/PlayGame.h
+time.h
+-
+stdbool.h
+C:/Users/davis/iCloudDrive/School/2021 fall/322/assignment1/gameFuctions/stdbool.h
 
 C:/Users/davis/iCloudDrive/School/2021 fall/322/assignment1/main.c
 userInput/InputData.h
