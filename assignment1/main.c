@@ -1,15 +1,20 @@
 #include "userInput/InputData.h"
 #include "gameFuctions/PlayGame.h"
 int main() {
+    //struct timespec seed;
+    srand(time(0));
 
-    struct Room *room;
+//    for(int i = 0; i < 10; i++)
+//    printf("%d\n", (rand() % 4) + 1);
     struct Creature *creature;
-    int numOfRooms;
+    struct Creature *PC;
+    int startingValue = 40;
+    respect = startingValue;
 
     room = userInputRoom();
     creature = userInputCreature();
-    size
-    play(room, creature);
+    play(creature);
     free(room);
     free(creature);
+    free(numOfRooms);
 }

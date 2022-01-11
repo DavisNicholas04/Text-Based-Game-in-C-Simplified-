@@ -1,0 +1,80 @@
+Tester 1: general test
+<Include everything blowthis>
+7
+1 1 2 -1 -4
+1 -1 0 5 -1
+1 0 6 -1 3
+1 4 -1 2 -1
+1 -1 3 0 -1
+1 -1 -1 -1 1
+1 2 -1 -1 -1
+10
+0 0
+1 2
+1 5
+2 0
+1 0
+2 4
+2 2
+1 2
+1 0
+2 0
+ 
+<Include everything above this including white space>
+
+Tester 2: Test for Creature leaving house (room 0 has 1 PC,NPC, & ANIMAL with full rooms to the N,S,W and no room to the E)
+<Include everything blowthis>
+4
+1 1 2 -1 3
+1 -1 0 -1 -1
+1 0 -1 -1 -1
+1 -1 -1 0 -1
+33
+0 0
+1 0
+2 0
+
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+1 1
+
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+1 2
+
+1 3
+1 3
+1 3
+1 3
+1 3
+1 3
+1 3
+1 3
+1 3
+1 3
+ 
+<Include everything above this including white space>
+
+Test 3: GameWin/ Game loose 
+<Include everything blowthis>
+1
+1 -1 -1 -1 -1
+2
+0 0
+1 0
+ 
+<Include everything above this including white space>
